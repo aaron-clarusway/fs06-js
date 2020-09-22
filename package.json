@@ -1,14 +1,15 @@
 {
-  "private": true,
-  "version": "0.0.0",
-  "name": "example",
-  "devDependencies": {
-    "@babel/core": "*",
-    "@babel/preset-env": "*",
-    "babel-jest": "*",
-    "jest": "*"
-  },
-  "scripts": {
-    "test": "jest"
-  }
+    "name": "test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^26.4.2"
+    }
 }
